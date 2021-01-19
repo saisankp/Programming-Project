@@ -1,5 +1,5 @@
 # Programming-Project
-All the courswork that was undertaken by me during the module CSU11013 (Programming Project) where we learned to work in a team enviroment and build an application using the Processing Java library.
+All the lab work that was undertaken by me during the module CSU11013 (Programming Project) where we learned to work in a team enviroment and build an application using the Processing Java library.
 
 ## 1st Assignment (Questions)
 1. Write a program using processing to
